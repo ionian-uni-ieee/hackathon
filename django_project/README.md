@@ -1,4 +1,7 @@
 ## Create a django project
+
+Documentation url: https://docs.djangoproject.com/en/4.0/intro/tutorial01/
+
 Main command to create a Django app. In this example the app's name is application
 ```bash
 django-admin startproject application
